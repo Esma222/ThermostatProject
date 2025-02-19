@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/assets/auto.jpeg</file>
+        <file>ui/assets/auto2.png</file>
+        <file>ui/assets/calendar.png</file>
+        <file>ui/assets/flame.jpg</file>
+        <file>ui/assets/ice-crystal.png</file>
+        <file>ui/assets/info-button.png</file>
+        <file>ui/assets/settings.png</file>
+        <file>ui/assets/thermometer.png</file>
+        <file>ui/assets/wifi.png</file>
+        <file>ui/HomeScreen/HomeScreen.qml</file>
+        <file>ui/HomeScreen/TempratureControlSlider.qml</file>
+        <file>ui/assets/flame2.png</file>
+        <file>ui/HomeScreen/HeatSelectDialog.qml</file>
+        <file>ui/SettingsScreen/SettingsScreen.qml</file>
+        <file>ui/assets/next.png</file>
+        <file>ui/assets/previous.png</file>
+        <file>ui/SettingsScreen/SettingsMainMenu.qml</file>
+    </qresource>
+</RCC>
